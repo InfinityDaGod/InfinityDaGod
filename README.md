@@ -5,8 +5,8 @@
 
 # Discord Status
 
-- zero
+- zero | Alt
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-3/783136680923758622.png" alt="Discord" /> </p>
 
-- Inf1n1ty
+- Inf1n1ty | Main
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-3/710211279981379705.png" alt="Discord" /> </p>
